@@ -33,7 +33,7 @@ I'm a fresh graduate with a bachelor's degree in Statistics who is passionate in
 
 
 # 📊 My Github Stats & Social Media
-![Github Stats](https://github-readme-stats.vercel.app/api/github-stats/?username=berlianilarasati&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](![GitHub Stats](https://github-readme-stats.vercel.app/api?username=berlianilarasati&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berlianilarasati&hide=TeX&layout=compact)
 
 <div>
