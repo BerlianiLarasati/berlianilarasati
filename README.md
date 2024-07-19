@@ -31,6 +31,7 @@ I'm a fresh graduate with a bachelor's degree in Statistics who is passionate in
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 
+
 # 📊 My Github Stats & Social Media
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=berlianilarasati&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berlianilarasati&hide=TeX&layout=compact)
